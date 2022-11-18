@@ -26,6 +26,6 @@
     "jest": "^24.8.0",
     "regenerator-runtime": "^0.13.3",
     "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   }
 }
